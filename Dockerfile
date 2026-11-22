@@ -3,4 +3,4 @@ RUN apt-get update && apt-get install -y libegl1 libdbus-1-3 libfontconfig1 libf
 'WORKDIR/app',
 'COPY./app'
 'RUN pip install-r requirements.txt'
-CMD["python","main.py"]
+CMD"["xvfb-run","python","main.py"]
