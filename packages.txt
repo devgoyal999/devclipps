@@ -1,3 +1,4 @@
 libegl1
 libxkbcommon0
 libfreetype6
+libfontconfig1
