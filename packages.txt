@@ -9,3 +9,4 @@ libxcb1
 libxcb-render0
 libxkbcommon-x11-0
 xcb-cursor
+libxcb-cursor0
