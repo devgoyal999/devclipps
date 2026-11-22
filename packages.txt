@@ -2,3 +2,4 @@ libegl1
 libxkbcommon0
 libfreetype6
 libfontconfig1
+libdbus-1-3
